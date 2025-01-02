@@ -92,7 +92,7 @@ export default function Hero() {
                   alt="Minecraft Character"
                   width={300}
                   height={600}
-                  className="mx-auto max-h-[75vh] w-auto object-contain"
+                  className="mx-auto max-h-[100vh] w-auto object-contain"
                 />
               </motion.div>
             </div>
