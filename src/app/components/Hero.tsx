@@ -19,7 +19,7 @@ const images = [
   {
     title: 'Exclusive Rewards',
     description: 'Unlock amazing items and special perks',
-    character: '/images/Character 5.png',
+    character: '/images/Character 3.png',
   },
 ]
 
